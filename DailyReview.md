@@ -25,3 +25,19 @@
 - 计算机网络
 - 计算机接口/组成
 - 编译原理/计算机程序的构造与解释（python）
+- 数据结构与算法
+# 2024/11/15
+- Word/Execl/PowerPoint
+- TCP/HTTP
+- 编码：ANSI   GB2312、GBK   unincode、UTF-8    JCK
+- markdowm
+- git的使用 《pro git》前三章
+- 环境：PROD、STG、DEV
+- 软件组织：《代码大全》
+- Liunx:SSH
+- 加密：对称/非对称
+- 项目团队构成
+# 2024/11/16
+- pyenv
+- nvm
+- IDE

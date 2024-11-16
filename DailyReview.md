@@ -37,6 +37,8 @@
 - Liunx:SSH
 - 加密：对称/非对称
 - 项目团队构成
+- GUI发展
+- Linux/Unix分支
 # 2024/11/16
 - pyenv
 - nvm

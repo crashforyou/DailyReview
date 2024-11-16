@@ -43,3 +43,8 @@
 - pyenv
 - nvm
 - IDE
+- Google搜索技巧
+- Mdn浏览器原理
+- 安全问题（SQL注入与XSS）
+- GPS等定位标准
+- AI COT

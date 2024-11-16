@@ -29,7 +29,7 @@
 # 2024/11/15
 - Word/Execl/PowerPoint
 - TCP/HTTP
-- 编码：ANSI   GB2312、GBK   unincode、UTF-8    JCK
+- 编码：ANSI          GB2312、GBK           unincode、UTF-8             JCK
 - markdowm
 - git的使用 《pro git》前三章
 - 环境：PROD、STG、DEV
